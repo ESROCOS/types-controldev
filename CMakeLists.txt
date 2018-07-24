@@ -8,6 +8,6 @@ cmake_minimum_required(VERSION 2.6)
 
 include($ENV{ESROCOS_CMAKE})
 
-project(controldev)
+project(types-controldev)
 
 add_subdirectory(asn)
