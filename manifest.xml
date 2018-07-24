@@ -1,0 +1,10 @@
+<package>
+    <description brief="Basic data types for control devices">
+	Generated types for conrol devices
+    </description>
+    <author>DFKI</author>
+    <copyright>DFKI 2018</copyright>
+    <license>GPLv2</license>
+    <depend package="tools/config" />
+    <depend package="types/base" />
+</package>
